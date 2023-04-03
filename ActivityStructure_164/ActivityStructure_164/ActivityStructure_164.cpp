@@ -32,7 +32,17 @@ int main()
 	cout << "Masukkan umut: ";
 	cin >> mhs1.umur;
 
+	cout << "Masukkan NIM: ";
+	cin >> mhs2.nim;
+	cout << "masukkan Nama: ";
+	cin >> mhs2.nama;
+	cout << "masukkan alamat: ";
+	cin >> mhs2.alamat;
+	cout << "Masukkan umut: ";
+	cin >> mhs2.umur
 
+
+}
 
 
 
