@@ -16,7 +16,7 @@ int main()
 	mhs1.nim = "20220140164";
 	mhs1.nama = "Dimas";
 	mhs1.alamat = "Bantul";
-	mhs.umur = 18;
+	mhs1.umur = 18;
 
 	mhs2.nim = "20220140165";
 	mhs2.nama = "Luthfi";
@@ -39,10 +39,11 @@ int main()
 	cout << "masukkan alamat: ";
 	cin >> mhs2.alamat;
 	cout << "Masukkan umut: ";
-	cin >> mhs2.umur
-
+	cin >> mhs2.umur;
 
 }
+
+
 
 
 
